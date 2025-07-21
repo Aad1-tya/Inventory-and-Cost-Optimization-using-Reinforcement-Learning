@@ -25,7 +25,7 @@ The file is **too large for GitHub** (over 100MB) and is not included in this re
 Then place `sales_train_validation.csv` in the same folder as `app.py`.
 
 ---
-
+![Reward Graph](image.png)
 ## 📁 File Structure
 
 | File                        | Description                              |
