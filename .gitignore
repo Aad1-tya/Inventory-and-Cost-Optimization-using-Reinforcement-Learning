@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+.env
+sales_train_validation.csv
